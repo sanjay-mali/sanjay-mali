@@ -21,8 +21,13 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=sanjay-mali&icon=7&color=0)](https://visitcount.itsvg.in)
+
+
+---<div align="center">
+  <img src="https://profile-counter.glitch.me/sanjay-mali/count.svg?"  />
+</div>
+
+###
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/sanjaymali99) 
