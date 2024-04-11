@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kotlin, Android Developer<br>👯 I’m looking to collaborate on Dev Side<br>🌱 I’m currently learning Kotlin, Android Developer<br>💬 Ask me about sanjaymali94284@gmail.com<br>⚡ Fun fact Passionate🔱, Adventure🌐,  Digital art🚀, Innovative🌟
+🔭 I’m currently working on React.js, Kotlin, Android Developer<br>👯 I’m looking to collaborate on Dev Side<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about sanjaymali94284@gmail.com<br>⚡ Fun fact Passionate🔱, Adventure🌐,  Digital art🚀, Innovative🌟
 
 
 ## 🌐 Socials:
