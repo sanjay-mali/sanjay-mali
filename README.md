@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React.js, NodeJs<br>👯 I’m looking to collaborate on Dev Side<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Frontend, React and Android <br>⚡ Fun fact Passionate🔱, Adventure🌐,  Digital art🚀, Innovative🌟
+🔭 I’m currently working on React.js, Next.js<br>👯 I’m looking to collaborate on Dev Side<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Frontend, React and Android <br>⚡ Fun fact Passionate🔱, Adventure🌐,  Digital art🚀, Innovative🌟
 
 
 ## 🌐 Socials:
