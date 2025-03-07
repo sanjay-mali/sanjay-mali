@@ -25,6 +25,3 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/sanjaymali99) 
 
   
-<div align="center ">
-  <img src="https://profile-counter.glitch.me/sanjay-mali/count.svg?"  />
-</div>
