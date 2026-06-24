@@ -71,7 +71,7 @@ I approach problems as systems, not isolated features.
 <a href="https://linkedin.com/in/sanjay-mali-dev" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
-<a href="https://x.com/BoltHacker1" target="blank">
+<a href="https://x.com/sanjay_mali_1" target="blank">
   <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
 </a>
 <a href="https://codepen.io/Sanjay-Mali" target="blank">
