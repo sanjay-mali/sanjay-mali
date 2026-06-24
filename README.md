@@ -74,9 +74,6 @@ I approach problems as systems, not isolated features.
 <a href="https://x.com/sanjay_mali_1" target="blank">
   <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
 </a>
-<a href="https://codepen.io/Sanjay-Mali" target="blank">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
 </p>
 
 ---
