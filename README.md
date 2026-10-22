@@ -33,17 +33,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-mali&theme=github_dark" />
-  <br/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjay-mali&theme=github_dark" />
-</p>
-
----
-
 ## 🧱 Engineering Principles
 
 - Systems over features  
